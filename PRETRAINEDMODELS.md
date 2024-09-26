@@ -138,6 +138,8 @@ STRENGTHS: Well-suited for rapid screening of COVID-19 and pneumonia cases.
 LIMITATIONS: Developed specifically for COVID-19; limited generalizability to other diseases.
 
 
+
+
 SUMMARY OF FEATURES:
 
 TYPE OF DATA: 
