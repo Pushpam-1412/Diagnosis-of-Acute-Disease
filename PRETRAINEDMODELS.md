@@ -1,9 +1,9 @@
 THERE ARE SEVERAL PRETRAINED PRE-TRAINED AI MODELS DEVELOPED SPECIFICALLY FOR MEDICAL DIAGNOSIS, INCLUDING ACUTE DISEASES.THESE MODELS UTILZE
 VARIOUS MACHINE LEARNING(ML) AND DEEP LEARNING(DL) ARCHITECTURES , PARTICULARLY LEVRAGING ADVANCES IN NATURAL LANGUAGE PROCESSINNG(NLP) AND
-COMPUTER VISION . BELOW ARE SOME LIST OF NOTABLE MODELS:
+COMPUTER VISION.
+BELOW ARE SOME LIST OF NOTABLE MODELS:
 
-
-  1. MED-PALM(MEDICAL PALM):-
+**1. MED-PALM(MEDICAL PALM)**:-
 
 TYPE:   Large Language Model (LLM)
       
@@ -17,7 +17,7 @@ LIMITATIONS: More focused on general medical knowledge than image-based diagnosi
 
 
             
-2. BioBERT (Biomedical BERT):
+**2. BioBERT (Biomedical BERT)**:
  
 TYPE: NLP model based on BERT architecture
      
@@ -30,7 +30,7 @@ STRENGTHS: Handles biomedical text data and research articles efficiently, used 
 LIMITATIONS: Not directly applicable to imaging or non-text data.
 
 
-3. CheXNet:
+**3. CheXNet**:
 
 TYPE:  Convolutional Neural Network (CNN) based model
      
@@ -44,7 +44,7 @@ LIMITAIONS:   Limited to radiological (image-based) diagnosis.
 
 
 
-4. DeepMind's Acute Kidney Injury (AKI) Prediction Model:
+**4. DeepMind's Acute Kidney Injury (AKI) Prediction Model**:
 
 TYPE:  Machine Learning (ML) model
      
@@ -58,7 +58,7 @@ LIMITATIONS: Focused only on AKI; not generalized to other acute conditions.
 
 
 
-5. TriageNet:
+**5. TriageNet**:
 
 TYPE:  CNN model
     
@@ -72,7 +72,7 @@ LIMITATIONS:  Requires high-quality imaging data.
 
 
 
-6. DERM AI (Stanford):
+**6. DERM AI (Stanford)**:
 
 TYPE:  CNN model
    
@@ -86,7 +86,7 @@ LIMITATIONS:  Focused only on dermatology.
        
 
 
-7. FastMRI by Facebook AI and NYU:
+**7. FastMRI by Facebook AI and NYU**:
 
 TYPE: MRI-based deep learning model
 
@@ -99,7 +99,7 @@ STRENGTHS: Reduces MRI processing time while maintaining diagnostic accuracy.
 LIMITATIONS: Only applicable to MRI imaging.
 
 
-8. Qure.ai (qXR):
+**8. Qure.ai (qXR)**:
 
 TYPE: CNN-based model
 
@@ -112,7 +112,7 @@ STRENGTHS: Can be used in low-resource settings; FDA cleared.
 LIMITATIONS: Focused on chest imaging.
 
 
-9. IDx-DR:
+**9. IDx-DR**:
 
 TYPE: CNN-based model
 
@@ -125,7 +125,7 @@ STRENGTHS: FDA approved, focuses on retinal imaging.
 LIMITATIONS: Specific to diabetic retinopathy.
 
 
-9. COVID-Net:
+**10. COVID-Net**:
     
 TYPE: CNN-based model
 
@@ -140,7 +140,7 @@ LIMITATIONS: Developed specifically for COVID-19; limited generalizability to ot
 
 
 
-SUMMARY OF FEATURES:
+**SUMMARY OF FEATURES**:
 
 TYPE OF DATA: 
       The models focus on different data types—some are for text (BioBERT, Med-PaLM), others for imaging (CheXNet, qXR), and some for EHR-based prediction (DeepMind’s AKI model).
