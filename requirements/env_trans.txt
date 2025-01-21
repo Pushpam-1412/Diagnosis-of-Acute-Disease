@@ -1,0 +1,6 @@
+pyaudio
+pipwin
+googletrans==4.0.0-rc1
+speechrecognition
+gtts
+playsound
