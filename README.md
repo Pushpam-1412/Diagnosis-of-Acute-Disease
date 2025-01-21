@@ -163,8 +163,7 @@ You can rename the files for better clarity as follows:
 
 | Current Name                | Suggested Name              |
 |-----------------------------|-----------------------------|
-| `main.py`                   | `run_pipeline.py`          |
-| `record_audio.py`           | `audio_record.py`          |
+| `app.py`                   | `run_pipeline.py`          |
 | `transcribe_translate.py`   | `audio_transcribe_translate.py` |
 | `llm_processor.py`          | `text_processor.py`        |
 | `text_to_speech.py`         | `speech_generator.py`      |
